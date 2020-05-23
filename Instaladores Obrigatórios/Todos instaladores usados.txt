@@ -1,0 +1,9 @@
+android studio	
+java
+jdk
+netbeans
+wamp
+xampp
+DB browser
+
+Opcional - Launcg4j - Converte .jar para .exe
